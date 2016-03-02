@@ -3,6 +3,7 @@
 [![Gem Version](http://img.shields.io/gem/v/slugworth.svg?style=flat)](http://badge.fury.io/rb/slugworth)
 [![Build Status](http://img.shields.io/travis/mattpolito/slugworth/master.svg?style=flat)](https://travis-ci.org/mattpolito/slugworth)
 [![Code Climate](http://img.shields.io/codeclimate/github/mattpolito/slugworth.svg?style=flat)](https://codeclimate.com/github/mattpolito/slugworth)
+[![codebeat](https://codebeat.co/badges/b1734fbe-c7ef-4345-896a-06105493b3e2)](https://codebeat.co/projects/github-com-hashrocket-slugworth)
 
 Simple slug functionality for your ActiveRecord objects
 
